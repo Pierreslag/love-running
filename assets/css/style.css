@@ -57,7 +57,7 @@ h1, h2 {
     border-bottom: 1px solid #3a3a3a;
 }
 
-/* hero image and cover text*/
+/* hero image and cover text */
 
 #hero-outer {
     height: 600px;
@@ -157,17 +157,17 @@ hr {
     margin-bottom: 50px;
 }
 
-.right-about-heading, h2 {
+.right-about-heading h2 {
     text-align: right;
 }
 
-.right-about-heading, p {
+.right-about-heading p {
     text-align: right;
 }
 
 #welcome {
     text-align: center;
-    margin: 20px;
+    margin: 20px 0;
     font-size: 280%;
 }
 
